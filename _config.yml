@@ -1,0 +1,14 @@
+layout_spectrum: 0.5855649944860488
+typography_spectrum: 0.7934214896522462
+color:
+  brandStrength: 0.3660146286711097
+  lightness: 0.4249766899738461
+  saturation: 0.355495234252885
+  rhythmicContrast: 0.4935945386532694
+  brandColors:
+    - '#FFFFFF'
+    - '#515151'
+    - '#2A2A2A'
+    - '#D8D7E0'
+    - '#B98C55'
+name: RSC Health
