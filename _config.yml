@@ -1,4 +1,3 @@
-layout_spectrum: 0.5855649944860488
 typography_spectrum: 0.7934214896522462
 color:
   brandStrength: 0.3660146286711097
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.5855649944860488
 name: RSC Health
 title: Redefining Healthcare
+description: Built to help endure life's storms
